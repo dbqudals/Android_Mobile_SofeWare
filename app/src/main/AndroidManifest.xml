@@ -38,7 +38,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCb-uwmfTMuhtMvR3wHCQu4Z9IwwaOPfnI" />
+            android:value="${MAPS_API_KEY}" /> />
 
         <activity android:name=".google" />
         <activity android:name=".Insert_food" />
